@@ -1,4 +1,28 @@
-- name: Some product
-  image: some_product.png
-- name: Other product
-  image: other_product.png
+- name: François
+  image: card-paris.jpeg
+- name: JB
+  image: card-brussels.jpeg.png
+- name: Gisele
+  image: card-london.jpeg
+
+
+François:
+  city: PARIS
+  description: Charming room with patio
+  image: card-paris.jpeg
+
+JB:
+  city: BRUSSELS
+  description: Lovely House
+  image: card-brussels.jpeg
+
+
+
+Gisele:
+  city: LONDON
+  description: Nice flat in Piccadilly
+  image: card-london.jpeg
+
+
+
+
